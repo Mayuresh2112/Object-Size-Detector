@@ -2,6 +2,7 @@
 
 
 **Measure size of objects in an image using OpenCV **
+
 The project offers a script to read an image and determine the size of additional objects in a scene using the measurements of a reference object. The scene's leftmost item must be the reference object. A box with the dimensions 2 cm by 2 cm is used as the reference object in the provided sample photos.
 
 
